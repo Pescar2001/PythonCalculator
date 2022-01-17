@@ -2,7 +2,6 @@
 import math
 
 while True:
-
     print ("\n Alege metoda.\n \n0-Adunare\n1- Scadere\n2- Inmultire\n3-Impartire\n4-Exponentiere " )
     oper= input("\nOptinea ta ")
  #adunare
